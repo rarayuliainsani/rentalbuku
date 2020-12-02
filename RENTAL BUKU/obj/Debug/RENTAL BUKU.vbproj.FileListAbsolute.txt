@@ -1,0 +1,24 @@
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.dll
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.pdb
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.xml
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL_BUKU.Resources.resources
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.vbproj.GenerateResource.Cache
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.dll
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.xml
+D:\Rental Buku\coba2\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.pdb
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.dll
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.pdb
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.xml
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL_BUKU.Resources.resources
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.vbproj.GenerateResource.Cache
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.dll
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.xml
+H:\###########\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.pdb
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.dll
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.pdb
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\bin\RENTAL BUKU.xml
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL_BUKU.Resources.resources
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.vbproj.GenerateResource.Cache
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.dll
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.xml
+D:\kuliah\Semester 4\Pemrograman Visual\VB\RENTAL BUKU\RENTAL BUKU\obj\Debug\RENTAL BUKU.pdb

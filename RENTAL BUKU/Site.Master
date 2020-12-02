@@ -1,0 +1,202 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="RENTAL_BUKU.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Rental Buku Keluarga Sarif</title>
+  <meta name="description" content="free website template" />
+  <meta name="keywords" content="enter your keywords here" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/image_slide.js"></script>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+  <div id="main">
+    <div id="header">
+	  <div id="banner">
+	    <div id="welcome">
+	      <center><h1><span><b>Rental Buku</b></span> Keluarga Sarif</h1></center>
+	    </div><!--close welcome-->
+	    <div id="welcome_slogan">
+            <center>
+            <h2>Temukan Buku Favoritmu Disini :)</h2>
+            </center>
+            
+	    </div><!--close welcome_slogan-->
+	  </div><!--close banner-->
+    </div><!--close header-->
+
+	<div id="menubar">
+      <ul id="menu">
+        <li class="current"><a href="Site.Master.vb">Home</a></li>
+        <li><a href="WebFormPetugas.aspx">PETUGAS</a></li>
+        <li><a href="WebFormPelanggan.aspx">PELANGGAN</a></li>
+        <li><a href="WebFormBuku.aspx">BUKU</a></li>
+          <li></li>
+        <li><a href="WebFormRegistrasiBuku.aspx">REGISTRASI BUKU</a></li>
+ 
+      </ul>
+        <p>
+          </p>
+        <p>
+            </p>
+        <ul id="menu">
+            <li><a href="WebFormTipeBuku.aspx">TIPE BUKU</a> </li>     
+            <li><a href="WebFormPeminjaman.aspx">PEMINJAMAN</a></li>     
+            <li><a href="WebFormPengembalian.aspx">PENGENGEMBALIAN</a> </li>
+            <li><a href="WebFormLaporanTransaksi.aspx">LAPORAN</a> </li>
+           
+            
+
+
+
+ 
+      </ul>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <ul id="menu">
+            <li></li>
+ 
+      </ul>
+        <p>
+            &nbsp;</p>
+    </div><!--close menubar-->	
+    
+	<div id="site_content">		
+
+	  <div class="sidebar_container">       
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Keluarga Sarif Quote's</h2><p>
+                <i><b>"A house without books is like a room without windows"</b></i></p>
+            
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar--> 
+        
+            		
+		<div class="sidebar">
+          <div class="sidebar_item">
+            
+                
+                <h2>Sarif's Family</h2>
+                
+               
+            <h3>Lokyta Indah Wulandari</h3>         
+            <h3>M. Adzka Syarif</h3>        
+            <h3>Nasri Sarif</h3>       
+            <h3>Novelia Desrina Putri</h3>  
+            <h3>Rara Yulia Insani</h3>      
+            <h3>Sari Noviani</h3>        
+            <h3>Sintia Agustin Padri</h3>                
+		  </div><!--close sidebar_item--> 
+        </div><!--close sidebar--> 
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact Us</h2>
+            <p><b>@lokytaindahwulandari</b></p>
+            <p><b>@adzka.syarif</b></p>
+            <p><b>@nasrisarif</b></p>
+            <p><b>@noveliadesrinaa</b></p>
+            <p><b>@rarayuliainsani01</b></p>
+            <p><b>@srnvni</b></p>
+            <p><b>@sintiaagustinpadri</b></p>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->
+       </div><!--close sidebar_container-->	
+	
+      <ul class="slideshow">
+        <li class="show"><img width="680" height="250" src="images/home_1.jpg" alt="&quot;Enter your caption here&quot;" /></li>
+        <li><img width="680" height="250" src="images/home_2.jpg" alt="&quot;Enter your caption here&quot;" /></li>
+      </ul>   	 
+	 
+	  <div id="content">
+        <div class="content_item">
+		  <h1>
+              <b>Welcome To Our Website</h1></b>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+		    <br />
+            <br />
+		  <br style="clear:both"/>
+		  
+		    <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+		  
+		    <!--close content_container-->
+		</div><!--close content_item-->
+      </div><!--close content-->   
+	</div><!--close site_content--> 
+    
+	<div id="content_grey">
+	  <div class="content_grey_container_box">
+		<h4><b>Quotes</b></h4>
+	    <p>
+            <b>Seberat Apapun Masalahmu, Jangan Ditimbang. Gak Bakalan Laku !! </b></p>        
+		<p>&nbsp;</p>
+        <p>&nbsp;</p>
+      
+      
+        <div class="readmore">
+		  <a href="#">Read more</a>
+            <br />
+		</div><!--close readmore-->
+	  </div><!--close content_grey_container_box-->
+      <div class="content_grey_container_box">
+          <h4>
+          <b>About Us</b>
+          </h4>
+          <p> 
+             Rental Buku Kami Menyediakan Berbagai Jenis Buku. Temukan Buku Favoritmu Disini </p>
+          <p> &nbsp;</p>
+          <p> &nbsp;</p>
+	    <div class="readmore">
+		  <a href="#">Read more</a><br />
+&nbsp;</div><!--close readmore-->
+	  </div><!--close content_grey_container_box-->
+      <div class="content_grey_container_boxl">
+		<h4><b>Quotes</b></h4>
+	    <p><b>Momen canggung adalah saat seseorang bertanya "Ada Masalah?", padahal dia sendirilah masalahnya </b></p>
+          <p> &nbsp;</p>
+          <p> &nbsp;</p>
+          
+	    <div class="readmore">
+		  <a href="#">Read more</a>
+		</div><!--close readmore-->	  
+	  </div><!--close content_grey_container_box1-->      
+	  <br style="clear:both"/>
+    </div><!--close content_grey-->   
+ 
+  </div><!--close main-->
+  
+  <div id="footer">
+	  <a href="http://validator.w3.org/check?uri=referer">Rental Buku Keluarga Sarif</a> | <a href="http://fotogrph.com/">MI2B</a> | website by <a href="http://www.araynordesign.co.uk">Keluarga Sarif</a>
+  </div><!--close footer-->  
+  
+    </form>
+  
+</body>
+</html>
+
